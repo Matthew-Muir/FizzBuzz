@@ -7,6 +7,17 @@
     --org-color: #FF993B;
 }
 
+td {
+    text-align: center;
+}
+
+td
+
+body {
+    background: linear-gradient(to right, #d3cce3, #e9e4f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
 @media only screen and (max-width: 400px) {
 div.copyright {
     font-size: 14px;
